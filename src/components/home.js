@@ -9,7 +9,10 @@ class Home extends React.Component {
     return (
       <Container>
           <Segment className="home">
-          <h2>This is my React Portfolio</h2>
+          <h2>Hi, my name is Senad and this is my React Portfolio.
+          </h2>
+           <break></break> 
+           <p> I used to work in many industries, from banking to construction, now I'm trying to learn javascript, so far it's very painful. </p>
         <p>Here you can find my recent projects, links to my social media, and email.</p>
           </Segment>
         

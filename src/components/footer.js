@@ -1,12 +1,12 @@
 import React from "react";
-import { Menu, Button } from "semantic-ui-react";
+import { Menu, Button, Segment } from "semantic-ui-react";
 import { NavLink } from "react-router-dom";
 export default function Footer() {
     return (
-        <Menu stackable>
-            <Menu.Item >
-            <a href="/home">Home</a>
-            </Menu.Item>
+        <Segment className = "blue" inverted centered vertical>
+        
+            Copyright senad83
+            {/* </Menu.Item>
             <Menu.Item >
             <a href="https://github.com/senad83">Github</a>
             </Menu.Item>
@@ -20,9 +20,9 @@ export default function Footer() {
             <a href="/">Resume</a>
             </Menu.Item>
             <Menu.Item >
-            <a href="/contact">Contact</a>
-            </Menu.Item>
+            <a href="/contact">Contact</a> */}
             
-        </Menu>
+            
+        </Segment>
     );
 }

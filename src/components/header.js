@@ -18,7 +18,7 @@ export default function Header() {
             <a href="/portfolio">Portfolio</a>
             </Menu.Item>
             <Menu.Item >
-            <a href="/">Resume</a>
+            <a href="/resume">Resume</a>
             </Menu.Item>
             <Menu.Item >
             <a href="/contact">Contact</a>

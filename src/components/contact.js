@@ -10,7 +10,7 @@ class Contact extends React.Component {
       <Container>
           <Segment className="contact">
           <h1>Email</h1>
-        <h2>senad@email.com</h2>
+        <h2>senad.dev83@gmail.com</h2>
           </Segment>
        
       </Container>

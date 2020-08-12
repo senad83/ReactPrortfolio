@@ -10,9 +10,9 @@ class Portfolio extends React.Component {
     return (
       <Container>
           <Project title="NBA Quiz" image="/fitness-tracker.png" githubUrl="https://github.com/senad83/NBA-Quiz"/>
-          <Project title="Note Taker" image="/fitness-tracker.png" githubUrl="https://github.com/senad83/note-taker-"/>
-          <Project title="Music Discovery" image="/fitness-tracker.png" githubUrl="https://github.com/kgarden22/musicdiscovery"/>
-          <Project title="Feel Good" image="/fitness-tracker.png" githubUrl="https://github.com/senad83/Project2"/>
+          <Project title="Note Taker" image="/note-taker2.png" githubUrl="https://github.com/senad83/note-taker-"/>
+          <Project title="Music Discovery" image2 = "/music-discovery2.png" image="/music-discovery.png" githubUrl="https://github.com/kgarden22/musicdiscovery"/>
+          <Project title="Feel Good" image="/project2.png" githubUrl="https://github.com/senad83/Project2"/>
           <Project title="Weather App" image="/fitness-tracker.png" githubUrl="https://github.com/senad83/weather_app"/>
           <Project title="Fitness Tracker" image="/fitness-tracker.png" githubUrl="https://github.com/senad83/fitness-tracker"/>
       </Container>
